@@ -6,7 +6,7 @@
 <tr>
 <td width="230" align="center" valign="middle">
 <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/ee/27/2eee27de-9ccb-3680-b6e9-b9c9c9f77872/MarsEditIcon.png/1200x630bb.png" width="200" alt="MarsEdit application icon"><br>
-<a href="https://mac-share-apps.github.io/.github/marsedit">
+<a href="https://ysids-apps-hub.github.io/.github/marsedit">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br><br>
 <div align="center">
